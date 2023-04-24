@@ -1,0 +1,140 @@
+<h1>Basic Tables</h1>
+<table>
+<tbody style="color:black;">
+<tr><td colspan="2" bgcolor="#C2D4FF" style="color:black; text-align: left" width="50%">Manages all project management processes, such as coordination, documentation, releasing, and distribution</td>
+<td colspan="2" bgcolor="#C2D4FF" style="color:black; text-align: left">Simplifies the process of building projects</td></tr>
+<tr><td colspan="2" bgcolor="#FBE0C9" style="color:black; text-align: left">Enhances the project's performance and the construction process</td>
+    <td colspan="2" bgcolor="#FBE0C9" style="color:black; text-align: left">Jar files, as well as other dependencies, are downloaded automatically</td>
+</tr>
+<tr><td colspan="2" bgcolor="#C2D4FF" style="color:black; text-align: left">All the information you need is easily accessible</td>
+<td colspan="2" bgcolor="#C2D4FF" style="color:black; text-align: left">Allows developers to create projects in a variety of environments without having to worry about dependencies, processes, etc.</td></tr>
+<tr><td colspan="3" bgcolor="#FBE0C9" style="color:black; text-align: center">Adding new dependencies in Maven is as simple as writing the dependency code in the pom file</td>
+</tr>
+    </tbody></table>
+<table>
+<tbody style="color:black;">
+<tr><td colspan="2" bgcolor="#C2D4FF" style="color:black; text-align: left" width="50%"> </td>
+<td colspan="2" bgcolor="#C2D4FF" style="color:black; text-align: left"> </td></tr>
+<tr><td colspan="2" bgcolor="#FBE0C9" style="color:black; text-align: left"> </td>
+    <td colspan="2" bgcolor="#FBE0C9" style="color:black; text-align: left"> </td>
+</tr>
+<tr><td colspan="2" bgcolor="#C2D4FF" style="color:black; text-align: left"> </td>
+<td colspan="2" bgcolor="#C2D4FF" style="color:black; text-align: left"> </td></tr>
+<tr><td colspan="3" bgcolor="#FBE0C9" style="color:black; text-align: center"> </td>
+</tr>
+</tbody></table>
+<table>
+<tbody style="color:black;">
+<tr><td colspan="2" bgcolor="#C2D4FF" style="color:black; text-align: left" width="50%"> </td>
+<td colspan="2" bgcolor="#C2D4FF" style="color:black; text-align: left"> </td></tr>
+<tr><td colspan="2" bgcolor="#FBE0C9" style="color:black; text-align: left"> </td>
+    <td colspan="2" bgcolor="#FBE0C9" style="color:black; text-align: left"> </td>
+</tr>
+<tr><td colspan="2" bgcolor="#C2D4FF" style="color:black; text-align: left"> </td>
+<td colspan="2" bgcolor="#C2D4FF" style="color:black; text-align: left"> </td></tr>
+<tr><td colspan="2" bgcolor="#FBE0C9" style="color:black; text-align: center"></td><td colspan="2" bgcolor="#FBE0C9" style="color:black; text-align: center"></td>
+</tr>
+</tbody></table>
+<h1>Topics Table</h1>
+<p><strong>Learning Objectives:</strong></p>
+<ul><li>Students will review the topics</li><li>Students will address any concerns or questions with the instructional team they may have with the topics</li></ul>
+<hr>
+<h1>Topics Table</h1>
+<table class="src" border="6" style="border-style:ridge" bordercolor="black">
+	<thead>
+		<tr>
+ 			<th bgcolor="#2C6BFF" style="color:white;text-align:center;" border="3" colspan="2"><font face="Gotham-Rounded-Medium" size="12"><span style="font-weight: 400;"><b>Topics</b></span></font></th>
+		</tr>
+    </thead>
+    <tbody>
+		<tr>
+            <td border="6" style="border-style:ridge" bordercolor="black" bgcolor="C2D4FF"><p style="color: black;">Introduction to Linux</p></td>
+            <td border="6" style="border-style:ridge" bordercolor="black" bgcolor="C2D4FF"><p style="color: black;">Recover/Reset Root Password</p></td>
+		</tr>
+		<tr>
+            <td border="6" style="border-style:ridge" bordercolor="black" bgcolor="#FBE0C9"><p style="color: black;">Basics of Kernel</p></td>
+            <td border="6" style="border-style:ridge" bordercolor="black" bgcolor="#FBE0C9"><p style="color: black;">Basics of Linux Commands</p></td>
+		</tr>
+		<tr>
+            <td border="6" style="border-style:ridge" bordercolor="black" bgcolor="#C2D4FF"><p style="color: black;">Basics of Shell</p></td>
+ 			</tr>
+		<tr>
+            <td border="6" style="border-style:ridge" bordercolor="black" bgcolor="#FBE0C9"><p style="color: black;">CentOS Installation</p></td>
+		</tr>
+        <tr>
+            <td border="6" style="border-style:ridge" bordercolor="black" bgcolor="#C2D4FF"><p style="color: black;">Access to Linux System</p></td>
+		</tr>
+    </tbody>
+</table>
+<table class="src" border="6" style="border-style:ridge" bordercolor="black">
+	<thead>
+		<tr>
+ 			<th bgcolor="#2C6BFF" style="color:white;text-align:center" border="3" colspan="2"><br></th>
+		</tr>
+    </thead>
+    <tbody>
+		<tr>
+            <td border="6" style="border-style:ridge" bordercolor="black" bgcolor="C2D4FF"><p><br></p></td>
+            <td border="6" style="border-style:ridge" bordercolor="black" bgcolor="C2D4FF"><p> </p></td>
+		</tr>
+		<tr>
+            <td border="6" style="border-style:ridge" bordercolor="black" bgcolor="#FBE0C9"><p> </p></td>
+            <td border="6" style="border-style:ridge" bordercolor="black" bgcolor="#FBE0C9"><p> </p></td>
+		</tr>
+		<tr>
+            <td border="6" style="border-style:ridge" bordercolor="black" bgcolor="#C2D4FF"><p> </p></td>
+            <td border="6" style="border-style:ridge" bordercolor="black" bgcolor="#C2D4FF"><p> </p></td>
+ 			</tr>
+		<tr>
+            <td border="6" style="border-style:ridge" bordercolor="black" bgcolor="#FBE0C9"><p> </p></td><td border="6" style="border-style:ridge" bordercolor="black" bgcolor="#FBE0C9"><p> </p></td>
+		</tr>
+        <tr>
+            <td border="6" style="border-style:ridge" bordercolor="black" bgcolor="#C2D4FF"><p> </p></td><td border="6" style="border-style:ridge" bordercolor="black" bgcolor="#C2D4FF"><p> </p></td>
+		</tr>
+    </tbody>
+</table>
+<table>
+<tbody style="color:black;">
+<tr><td colspan="2" bgcolor="#2C6BFF" style="color:black; text-align: left" width="25%"><span style="font-size: Large;">Data type in Excel</span></td><td colspan="2" bgcolor="#2C6BFF" style="color:black; text-align: left" width="20%"><span style="font-size: Large;">Data type in DAX</span></td><td colspan="2" bgcolor="#2C6BFF" style="color:black; text-align: left"><span style="font-size: Large;">Description</span></td></tr>
+<tr><td colspan="2" bgcolor="#FBE0C9" style="color:black; text-align: left">Whole Number</td><td colspan="2" bgcolor="#FBE0C9" style="color:black; text-align: left">A 64 bit (eight-bytes) integer value 1, 2</td> <td colspan="2" bgcolor="#FBE0C9" style="color:black; text-align: left">Numbers that have no decimal places. Integers can be positive or negative numbers, but must be whole numbers between -9,223,372,036,854,775,808 (-2^63) and 9,223,372,036,854,775,807 (2^63-1).</td></tr>
+<tr><td colspan="2" bgcolor="#C2D4FF" style="color:black; text-align: left">Decimal Number</td><td colspan="2" bgcolor="#C2D4FF" style="color:black; text-align: left">A 64 bit (eight-bytes) real number 1,2</td><td colspan="2" bgcolor="#C2D4FF" style="color:black; text-align: left">Real numbers are numbers that can have decimal places. Real numbers cover a wide range of values<br>Negative values from -1.79E through -2.23E -308<br>Zero<br>Positive values from 2.23E -308 through 1.179E +308<br>However, the number of significant digits is limited to 15 decimal digits.</td></tr>
+<tr><td colspan="2" bgcolor="#FBE0C9" style="color:black; text-align: left">True/False</td><td colspan="2" bgcolor="#FBE0C9" style="color:black; text-align: left">Boolean</td> <td colspan="2" bgcolor="#FBE0C9" style="color:black; text-align: left">Either a True or False value.</td></tr>
+<tr><td colspan="2" bgcolor="#C2D4FF" style="color:black; text-align: left">Text</td><td colspan="2" bgcolor="#C2D4FF" style="color:black; text-align: left">String</td> <td colspan="2" bgcolor="#C2D4FF" style="color:black; text-align: left">A Unicode character data string. Can be strings, numbers or dates represented in a text format.<br>Maximum string length is 268,435,456 Unicode characters (256 mega characters) or 536,870,912 bytes.</td></tr>
+<tr><td colspan="2" bgcolor="#FBE0C9" style="color:black; text-align: left">Date</td><td colspan="2" bgcolor="#FBE0C9" style="color:black; text-align: left">Date/time</td><td colspan="2" bgcolor="#FBE0C9" style="color:black; text-align: left">Dates and times in an accepted date-time representation.<br>Valid dates are all dates after January 1, 1900.</td></tr>
+<tr><td colspan="2" bgcolor="#C2D4FF" style="color:black; text-align: left">Currency</td><td colspan="2" bgcolor="#C2D4FF" style="color:black; text-align: left">Currency</td> <td colspan="2" bgcolor="#C2D4FF" style="color:black; text-align: left">Currency data type allows values between -922,337,203,685,477.5808 to 922,337,203,685,477.5807 with four decimal digits of fixed precision.</td></tr>
+<tr><td colspan="2" bgcolor="#FBE0C9" style="color:black; text-align: left">N/A</td><td colspan="2" bgcolor="#FBE0C9" style="color:black; text-align: left">Blank</td><td colspan="2" bgcolor="#FBE0C9" style="color:black; text-align: left">A black is a data type in DAX that represents and replaces SQL nulls. You can create a black by using the BLANK function, and test for blanks by using the logical function, ISBLANK.</td></tr>
+</tbody></table>
+<table>
+<tbody style="color:black;">
+<tr>
+    <td bgcolor="#C2D4FF" style="text-align: center" width="20%"><b style="color: black;">Between Now and Day 1 of your first course.</b></td>
+    <td bgcolor="#FBE0C9" style="color:black; text-align: left">Onboarding email from the first course's instructor<br><br>(Friday, 5pm Pacific prior to start)</td>
+ </tr>
+ <tr>
+    <td bgcolor="#C2D4FF" style="text-align: center"><b style="color: black;">On Day 1 of your first course.</b></td>
+    <td bgcolor="#FBE0C9" style="color:black; text-align: left">Program &amp; Course Orientation<br><br>Meet &amp; Greet: instructors<br><br>Meet &amp; Greet: classmates<br><br>Installation of program software<br><br>Start learning!</td>
+ </tr>
+ <tr>
+    <td bgcolor="#C2D4FF" style="text-align: center"><b style="color: black;">By the end of Each Course</b></td>
+        <td bgcolor="#FBE0C9" style="color:black; text-align: left">Belt exam!</td>
+ </tr>
+ <tr>
+    <td bgcolor="#C2D4FF" style="text-align: center"><b style="color: black;">Start of Each Course</b></td>
+        <td bgcolor="#FBE0C9" style="color:black; text-align: left">Course Orientation<br><br>Meet &amp; Greet: instructors<br><br>Meet &amp; Greet: classmates</td>
+ </tr>
+ <tr>
+    <td bgcolor="#C2D4FF" style="text-align: center"><b style="color: black;">Graduation</b></td>
+            <td bgcolor="#FBE0C9" style="color:black; text-align: left">Demos of work<br><br>Recognition ceremony<br><br>Next steps for Career Services</td>
+ </tr>
+ <tr>
+    <td bgcolor="#C2D4FF" style="text-align: center"><b style="color: black;">After Graduation</b></td>
+                <td bgcolor="#FBE0C9" style="color:black; text-align: left">Career Services program</td>
+    
+</tr>
+    
+    
+    
+    
+    
+    
+    </tbody></table>
