@@ -1,0 +1,19 @@
+<table><thead>
+    <tr><th colspan="3" bgcolor="#f2994a"><b style="color: white; font-size: large;">The following problems are some of those that telcos can pinpoint by analyzing drive test logs for 5G, 4G, 3G, and GSM:</b></th></tr>
+    </thead>
+    <tbody>
+    <tr><td colspan="2" bgcolor="#c0d3ff"><b style="color: black;">Cell overshooting, which happens when network planning results in poor network architecture</b></td><td bgcolor="#c0d3ff"><b style="color: black;">Call dropouts occur in interference zones, which are typically densely inhabited</b></td></tr>
+    <tr><td colspan="2" bgcolor="#96b5ff"><b style="color: black;">Black spots, often known as coverage gaps</b></td><td bgcolor="#96b5ff"><b style="color: black;">Areas with inadequate signal strength (slow data speed, dropped calls, etc.)</b></td></tr>
+    </tbody>
+    <thead>
+    <tr><th colspan="3" bgcolor="#f2994a"><b style="color: white; font-size: large;">Telcos can adopt the corrective measures listed below to improve network performance and user experience:</b></th></tr>
+    </thead><tbody>
+    <tr><td colspan="2" bgcolor="#c0d3ff"><b style="color: black;">Cell-tower parameter optimization</b></td><td bgcolor="#c0d3ff"><b style="color: black;">Adding or removing neighboring cells</b></td></tr>
+    <tr><td colspan="2" bgcolor="#96b5ff"><b style="color: black;">Lowering sector </b><font color="#000000" face="Gotham-Rounded-Medium">power</font><b style="color: black;"> levels to prevent cell overshooting</b></td><td bgcolor="#96b5ff"><b style="color: black;">Radio </b><font color="#000000" face="Gotham-Rounded-Medium">planning</font><b style="color: black;"> is being redesigned</b></td></tr></tbody>
+    <thead>
+    <tr><th colspan="3" bgcolor="#f2994a"><b style="color: white; font-size: large;">Telcos use these network optimization techniques to:</b></th></tr>
+    </thead>
+    <tbody>
+    <tr><td colspan="2" bgcolor="#c0d3ff"><b style="color: black;">Increase the coverage</b></td><td bgcolor="#c0d3ff"><b style="color: black;">Reduce network cell dropouts</b></td></tr>
+    <tr><td colspan="2" bgcolor="#96b5ff"><b style="color: black;">Increased user data throughput</b></td><td bgcolor="#96b5ff"><b style="color: black;">Decrease the handover errors</b></td></tr>
+    </tbody></table>
