@@ -1,0 +1,7 @@
+<table>
+<thead><tr><th colspan="2" bgcolor="#2C6BFF" border="3" style="text-align: center; color: white; font-size: large;" width="50%"><b>Network ACL</b></th><th bgcolor="#2C6BFF" border="3" style="text-align: center; color: white; font-size: large;"><b>Security Group</b></th></tr></thead>
+    <tbody><tr><td colspan="2" bgcolor="#FBEOC9" style="color: black;">Applied to vSwitches.</td><td bgcolor="#FBEOC9" style="color: black;">Applied to instances.</td></tr>
+<tr><td colspan="2" bgcolor="#C2D4FF" style="color: black;">Stateless: Returned traffic must be allowed by inbound rules.</td><td bgcolor="#C2D4FF" style="color: black;">Stateful: Returned traffic is automatically allowed and not affected by rules.</td></tr>
+<tr><td colspan="2" bgcolor="#FBEOC9" style="color: black;">The system attempts to match requests against rules in descending order of priority. Not all rules are matched.</td><td bgcolor="#FBEOC9" style="color: black;">The system matches a request against all rules before a rule is applied.</td></tr>
+<tr><td colspan="2" bgcolor="#C2D4FF" style="color: black;">Each vSwitch can be associated with only one network ACL.</td><td bgcolor="#C2D4FF" style="color: black;">Each ECS instance can be added to more than one security group.</td></tr>
+     </tbody> </table>
